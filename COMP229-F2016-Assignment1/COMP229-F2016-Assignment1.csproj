@@ -66,6 +66,15 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\images\Logo.png" />
+    <Content Include="Assets\images\Mypic.png" />
+    <Content Include="Assets\images\MyServices.jpg" />
+    <Content Include="Assets\images\Project.png" />
+    <Content Include="Assets\images\Project1.png" />
+    <Content Include="Assets\images\Project2.png" />
+    <Content Include="Assets\images\Project3.png" />
+    <Content Include="Assets\images\Service.jpg" />
+    <Content Include="Assets\images\Services.png" />
     <Content Include="packages.config" />
     <Content Include="Scripts\jquery-2.2.4.min.map" />
     <None Include="Web.Debug.config">
@@ -163,7 +172,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Assets\images\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>

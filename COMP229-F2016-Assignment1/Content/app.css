@@ -1,5 +1,18 @@
 ﻿/* custom css goes here */
-body { 
-    padding-bottom: 70px; 
 
+
+    /*About me page*/
+
+ #Logo{float:left;margin-left: 50px;margin-right: 50px}
+ #Mypic{float:left;margin-left: 50px;margin-right: 50px}
+ .Service{
+    height: 176px;
+}
+ .FutureGoals{
+     
+ }
+
+ body {
+    padding-bottom: 70px; 
+    background-color: pink;
 }
