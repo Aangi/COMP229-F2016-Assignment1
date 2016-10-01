@@ -2,6 +2,15 @@
 
 <!DOCTYPE html>
 
+<!--
+Filename : ContactMe.Master
+@author Aayushi Shah
+@date Sep 30,2016
+StudentID : 300874124
+website : http://comp229-f2016-300874124-assignment1.azurewebsites.net/
+@description : This page is the contact me master page for this web site
+-->
+
 <html>
 <head runat="server">
     <meta charset="utf-8">

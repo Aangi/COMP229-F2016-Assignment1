@@ -1,5 +1,14 @@
 ﻿/* custom css goes here */
 
+/*
+Filename : app.css
+@author Aayushi Shah
+@date Sep 30,2016
+StudentID : 300874124
+website : http://comp229-f2016-300874124-assignment1.azurewebsites.net/
+@description : This page is the default page for this web site
+*/
+
 
     /*About me page*/
 
@@ -9,8 +18,7 @@
     height: 176px;
 }
  #navbar-header{background-color:saddlebrown;}
-
  body {
     padding-bottom: 70px; 
-    background-color: #ffd6cc;
-}/*#ccffe6*/
+    background-color:#ffd6cc;
+}

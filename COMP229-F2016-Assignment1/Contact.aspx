@@ -1,6 +1,16 @@
 ﻿<%@ Page Title="Contact" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="COMP229_F2016_Assignment1.Contact" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+
+    <!--
+Filename : Contact.aspx
+@author Aayushi Shah
+@date Sep 30,2016
+StudentID : 300874124
+website : http://comp229-f2016-300874124-assignment1.azurewebsites.net/
+@description : This page is the contact page for this web site
+-->
+
     <div class="conatainer">
         <div class="row">
             <div class="col-md-offset-2 col-md-7">
