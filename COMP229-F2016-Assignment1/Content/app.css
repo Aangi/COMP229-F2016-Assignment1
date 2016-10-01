@@ -8,11 +8,9 @@
  .Service{
     height: 176px;
 }
- .Links{
-     
- }
+ #navbar-header{background-color:saddlebrown;}
 
  body {
     padding-bottom: 70px; 
-    background-color: pink;
-}
+    background-color: #ffd6cc;
+}/*#ccffe6*/

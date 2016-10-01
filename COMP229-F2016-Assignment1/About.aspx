@@ -7,14 +7,13 @@
 
                 <!--My Photo-->
                 <div class="MyPhoto">
-                
-            <img id="Mypic" src="Assets/images/Mypic.png" alt="Mypic">
-            </div>
-                
+                    <img id="Mypic" src="Assets/images/Mypic.png" alt="Mypic">
+       
                 <!--Tagline-->
                 <div class="Tagline">
                     <h3 class="text-center">My Tagline :) </h3>
                 <p>I can create websites that have it all: Beauty And Brains</p>
+                </div>
 
                 <!--Future Goals-->
                 <div class="FutureGoals">
@@ -37,6 +36,7 @@
 
             </div>
         </div>
+    
     </div>
 
 </asp:Content>
